@@ -1,12 +1,12 @@
 from turtle import *
 
-speed(0)
+#speed(0)
 
 teleport(-300,175) #set inital position of turtle
 
 #start creation of rectangle for flag
 
-pencolor("black") #outline color
+pencolor("blue") #outline color
 fillcolor("blue") #fill color
 
 begin_fill()
@@ -31,8 +31,8 @@ teleport(-75, -20)
 
 setheading(300)
 
-pencolor("yellow")
-fillcolor("yellow")
+pencolor("orange")
+fillcolor("orange")
 
 
 begin_fill()
