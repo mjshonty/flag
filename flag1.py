@@ -37,7 +37,7 @@ fillcolor("orange")
 
 begin_fill()
 
-for i in range(0,6): #loop starting each star 100 pixels away from it's origina point
+for i in range(0,6): #loop to draw 6 diamonds in a roundish shape
     right(60)
     forward(30)
 
